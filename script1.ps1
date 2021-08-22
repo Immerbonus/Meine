@@ -1,0 +1,1 @@
+﻿New-Item -Path "c:\" -Name "github_script" -ItemType "directory"
